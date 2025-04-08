@@ -1,3 +1,3 @@
 {
-    "ignoreWords": ["vercel", "turbopack"]
+    "ignoreWords": ["vercel", "turbopack", "ossp" ]
   }
